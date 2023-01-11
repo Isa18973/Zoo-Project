@@ -1,0 +1,13 @@
+body {
+    background-color: green;
+}
+p {
+    color: navy;
+    font-size: 20px;
+
+}
+body {
+    background-image: url("")
+    /*A slash and a * turns code into comments that don't run! */
+    /*background-color: violet; */
+}
